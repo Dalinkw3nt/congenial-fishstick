@@ -24,8 +24,7 @@ I have made the assumption that Minikube is already installed and running, so yo
 
 ### 5. Deploy the Docker Image in Minikube
 
-Apply the deployment in the 'hello-deployment.yaml' file using the script below:
-```bash
+
 kubectl apply -f hello-deployment.yaml
 ```
 
