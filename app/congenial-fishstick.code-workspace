@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "congenial-fishstick @ bc6162f",
+			"uri": "gitlens://7b22726566223a2262633631363266636531356437396431336162353337303761656333616632393161666337326139222c227265706f50617468223a222f55736572732f64616c696e6b77336e742f70726f6a656374732f636f6e67656e69616c2d66697368737469636b227d/Users/dalinkw3nt/projects/congenial-fishstick?{\"ref\":\"bc6162f\"}"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "congenial-fishstick"
+	}
+}
